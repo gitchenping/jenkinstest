@@ -3,7 +3,7 @@ import os
 
 import suit
 import HTMLTestRunnerCN
-
+#run
 if __name__ == '__main__':
     # 添加Suite
     print("run start....")
