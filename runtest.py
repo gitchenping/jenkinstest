@@ -1,5 +1,6 @@
 import time
 import os
+import sys
 
 import suit
 import HTMLTestRunnerCN
