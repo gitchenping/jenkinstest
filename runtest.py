@@ -1,7 +1,7 @@
 import time
 import os
 import sys
-import json
+import json.load
 
 import suit
 import HTMLTestRunnerCN
