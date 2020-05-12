@@ -2,7 +2,7 @@ import time
 import os
 import sys
 
-import json.dumps
+#import json.dumps
 
 import suit
 import HTMLTestRunnerCN
